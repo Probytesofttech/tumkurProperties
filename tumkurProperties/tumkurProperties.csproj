@@ -270,6 +270,7 @@
     <Content Include="bluesky\styles\property.css" />
     <Content Include="bluesky\styles\property_responsive.css" />
     <Content Include="bluesky\styles\responsive.css" />
+    <Content Include="CompanyLogo.png" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -341,6 +342,7 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\_MyLayout.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
